@@ -9,24 +9,26 @@ Cozy Cup Cafe is a tiny cafe which concept is designed to give a warm, relaxing,
 * Friendly and welcoming service. 
 ## Screen Captures
 ### Capture 1
-<img src="img/screenshot1.png"
+<img src="img/sc1.png"
 width="300" style="border-radius: 5%;"><br>
 In here is the logo of Cozy Cup Cafe, along with the buttons Home, Menu, About us, and Contact. 
 
 ### Capture 2
-<img src="img/screenshot2.png"
+<img src="img/sc2.png"
+width="300" style="border-radius: 5%;">
+<img src="img/sc3.png"
 width="300" style="border-radius: 5%;">
 
 This area is where you'll explore the menu. 
 
 ### Capture 3
-<img src="img/screenshot3.png"
+<img src="img/sc4.png"
 width="300" style="border-radius: 5%;">
 
 This is the Cafe's information. 
 
 ### Capture 4
-<img src="img/screenshot4.png"
+<img src="img/sc5.png"
 width="300" style="border-radius: 5%;">
 
 This is how our customers reach out to us. 
