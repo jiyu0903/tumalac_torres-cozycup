@@ -2,11 +2,11 @@
 ## Project Description 
 Cozy Cup Cafe is a tiny cafe which concept is designed to give a warm, relaxing, and welcoming space where customers can enjoy quality coffee, light snacks, and a comfortable ambience. 
 ## Features
-* Comfortable seating with a warm, cozy ambience.
-* Quality coffee and simple beverages.
-* Light snacks and pastries.
-* Free Wi-Fi for studying or working.
-* Friendly and welcoming service. 
+* Home / Landing Page
+* Menu Page
+* About Us Section
+* Contact Information
+* Responsive Design 
 ## Screen Captures
 ### Capture 1
 <img src="img/sc1.jpeg"
