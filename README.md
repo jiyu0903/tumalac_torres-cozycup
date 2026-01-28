@@ -2,11 +2,12 @@
 ## Project Description 
 Cozy Cup Cafe is a tiny cafe which concept is designed to give a warm, relaxing, and welcoming space where customers can enjoy quality coffee, light snacks, and a comfortable ambience. 
 ## Features
-* Comfortable seating with a warm, cozy ambience.
-* Quality coffee and simple beverages.
-* Light snacks and pastries.
-* Free Wi-Fi for studying or working.
-* Friendly and welcoming service. 
+* Easy-to-use website navigation
+* Browse menu and view details
+* Works well on phones and computers
+* Contact form for questions
+* Fast and smooth website
+* Nice and cozy cafe design
 ## Screen Captures
 ### Capture 1
 <img src="img/screenshot1.png"
@@ -42,6 +43,18 @@ width="60" style="border-radius: 50%;">
   <img src="img/Facebook.png" width="30" style="border-radius: 50%;"></a>
 <a href="https://github.com/jiyu0903" target="_blank">
   <img src="img/Github.png" width="30" style="border-radius: 50%;"></a>
+
+  <img src="img/toby.jpg"
+width="60" style="border-radius: 50%;">
+
+**Name**: Maverick Miguel A. Torres<br>
+**Email**: mabbytorres03@gmail.com
+
+<a href="https://www.facebook.com/MavAlt.Tobii/" target="_blank">
+  <img src="img/Facebook.png" width="30" style="border-radius: 50%;"></a>
+<a href="https://github.com/TobiasMabb" target="_blank">
+  <img src="img/Github.png" width="30" style="border-radius: 50%;"></a>
+
 
 
 
